@@ -13,7 +13,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ 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 }}
-          USERNAME: rakibsarowar # Your GitHub username
+          USERNAME: figure-2 # Your GitHub username
       - name: Commit & Push
         run: |
           git config user.name github-actions
