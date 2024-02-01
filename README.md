@@ -29,6 +29,14 @@
 	
 </div>
 
+<div align=center>
+	<h3> 🐣 Social 🐣 </h3>	
+	<a href="mailto:lskjghg7@naver.com">
+	<img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ina9377@gmail.com"
+	 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+	</a>
+</div>
+
 
 
 ![](./profile-3d-contrib/profile-night-view.svg)
