@@ -10,9 +10,10 @@
 <br>
 
 <div align=center>
+	
 </div>
 
-h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center">
 	<img src="https://img.shields.io/badge/PYTHON-E34F26?style=flat-square&logo=python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/JUPYTER-61DAFB?style=flat-square&logo=YTER&logoColor=white"/>
