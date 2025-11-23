@@ -15,19 +15,19 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center">
-	<img src="https://img.shields.io/badge/PYTHON-E34F26?style=flat-square&logo=python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/JUPYTER-61DAFB?style=flat-square&logo=JUPYTER&logoColor=white"/>
-	<img src="https://img.shields.io/badge/DJANGO-F7DF1E?style=flat-square&logo=Django&logoColor=white"/>
-	<img src="https://img.shields.io/badge/HTML5-3178C6?style=flat-square&logo=html5&logoColor=white"/>
- 	<img src="https://img.shields.io/badge/MYSQL-CC6699?style=flat-square&logo=MYSQL&logoColor=white"/>
-	
-<!-- 	<img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+	<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/JUPYTER-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+	<img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=Django&logoColor=white"/>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+ 	<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"/>
+
 	<br/>
- 	<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
- 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
- -->
-	
+
+	<!-- LangChain & RAG -->
+	<img src="https://img.shields.io/badge/LANGCHAIN-1A73E8?style=flat-square&logo=Chainlink&logoColor=white"/>
+	<img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=OpenAI&logoColor=white"/>
 </div>
+
 
 <div align=center>
 	<h3> 🐣 Social 🐣 </h3>	
