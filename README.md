@@ -5,7 +5,7 @@
 <h3 align=center> 
 🌱 Hello🖐 I’m Dohyung from Seoul, Korea.
 </h3>
-<p align=center>I used to major in business administration, but now I dream of becoming a data analysis & engineer in marketing & finance.
+<p align=center>I majored in business administration, but now I dream of becoming an expert in AI Agent, RAG.
 </p>
 <br>
 
