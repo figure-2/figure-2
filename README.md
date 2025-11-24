@@ -31,6 +31,10 @@
     <img src="https://img.shields.io/badge/Email-d14836?style=flat&logo=Gmail&logoColor=white" 
          style="height:auto; margin-left:10px; margin-right:10px;"/>
   </a>
+    <a href="https://figure-2.github.io/">
+    <img src="https://img.shields.io/badge/Blog-FF4500?style=flat&logo=Medium&logoColor=white"
+         style="height:auto; margin-left:10px; margin-right:10px;"/>
+  </a>
 </div>
 
 <p align="center">
