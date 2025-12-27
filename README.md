@@ -4,9 +4,9 @@
 
 <h3 align="center">🌱 Hello🖐 I'm Dohyung from Seoul, Korea.</h3>
 <p align="center">
-  🇰🇷 <strong>한국어</strong><br>
+  <div align="left">🇰🇷 <strong>한국어</strong></div>
   저는 경영학을 전공 했으며, 통계·데이터과학과에서 공부를 하고 있습니다. AI Agent 전문가가 되기를 희망하며, RAG와 LLM을 공부하고 있습니다.<br><br>
-  🇺🇸 <strong>English</strong><br>
+  <div align="left">🇺🇸 <strong>English</strong></div>
   I majored in business administration and am currently studying in the Department of Statistics and Data Science. I aspire to become an AI Agent expert and am studying RAG and LLM.
 </p>
 
