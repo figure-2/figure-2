@@ -13,24 +13,47 @@
 <h3 align="center">🚀 Pin 🚀</h3>
 <div align="left">
 
-- **Inch_by_inch**
+- **[Inch_by_inch](https://github.com/figure-2/inch_by_inch)**
   - 🇰🇷 TIL 정리 및 학습 내용 정리
   - 🇺🇸 TIL organization and learning materials
-- **MULTI_PJT2_4.5HZ**
+
+- **[MULTI_PJT2_4.5HZ](https://github.com/figure-2/MULTI_PJT2_4.5HZ)**
   - 🇰🇷 '4.5HZ' 글로벌 음악 데이터 분석과 사용자 맞춤 음악 추천 서비스
   - 🇺🇸 '4.5HZ' Global music data analysis and personalized music recommendation service
-- **Visually_Impaired_Service**
+
+- **[Visually_Impaired_Service](https://github.com/figure-2/Visually_Impaired_Service)**
   - 🇰🇷 시각장애인을 위한 안내 서비스
-  - 🇺🇸 Navigation service for visually impaired
+  - 🇺🇸 Navigation service for visually impaired users
+
 - **Financial-Agent**
   - 🇰🇷 금융 Agent (주식 시장의 다양한 금융 정보를 자연어 질문으로 조회)
-  - 🇺🇸 Financial Agent (Query various financial information from stock market using natural language)
+  - 🇺🇸 Financial Agent for querying various types of stock market information using natural language
+
 - **History_Docent**
   - 🇰🇷 History Docent (역사 도슨트 AI) / RAG
   - 🇺🇸 History Docent (AI docent for history) / RAG
+
 - **Insurance_PF**
   - 🇰🇷 개인용 자동차 보험 특화 LLM (Auto Insurance Specialist Agent) / LLM 파인튜닝
   - 🇺🇸 Personal auto insurance specialized LLM (Auto Insurance Specialist Agent) / LLM fine-tuning
+
+- **[LocalLens](https://github.com/figure-2/LocalLens)**
+  - 🇰🇷 로컬 텍스트, 이미지, PDF를 자연어로 검색하는 멀티모달 Retrieval 서비스
+  - 🇺🇸 A multimodal retrieval service for searching local text, images, and PDFs using natural language
+
+- **[SeSAC-Note](https://github.com/figure-2/SeSAC-Note)**
+  - 🇰🇷 강의 영상의 음성, 화면, 시간 정보를 구간별 근거 맥락으로 구성해 AI 노트와 근거 기반 QA를 제공하는 멀티모달 AI 서비스
+  - 🇺🇸 A multimodal AI service that organizes audio, on-screen content, and timestamps from lecture videos into segment-level evidence to provide AI-generated notes and evidence-based Q&A
+
+- **[PlanWeave](https://github.com/figure-2/planweave)**
+  - 🇰🇷 기획이음 (PlanWeave): 아이디어·리서치·기획·편집을 연결하는 LangGraph 기반 에이전틱 문서 설계 도구
+  - 🇺🇸 PlanWeave: A LangGraph-based agentic document design tool that connects ideation, research, planning, and editing
+
+- **[Financial-Insight-Agent](https://github.com/figure-2/Financial-Insight-Agent)**
+  - 🇰🇷 금융 리포트 RAG, 공시·법령 근거, 시장·포트폴리오 분석을 출처와 함께 통합하는 근거 기반 기업분석 포트폴리오 프로젝트
+  - 🇺🇸 An evidence-based company analysis portfolio project that integrates financial report RAG, corporate disclosure and regulatory evidence, and market and portfolio analysis with source citations
+ 
+  
 
 </div>
 
