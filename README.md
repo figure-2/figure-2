@@ -44,7 +44,7 @@
 - 🇰🇷 강의 영상의 음성·화면·시간 정보를 구간별 근거 맥락으로 구성해 AI 노트와 근거 기반 Q&A를 제공하는 멀티모달 AI 서비스
 - 🇺🇸 A multimodal AI service that organizes lecture audio, on-screen content, and timestamps into segment-level context for AI-generated notes and evidence-based Q&A
 
-#### [PlanWeave](https://github.com/figure-2/Planweave) · 에이전틱 문서 설계
+#### PlanWeave· 에이전틱 문서 설계
 
 - 🇰🇷 기획이음(PlanWeave): 아이디어·리서치·기획·편집을 연결하는 LangGraph 기반 에이전틱 문서 설계 도구
 - 🇺🇸 PlanWeave: A LangGraph-based agentic document design tool connecting ideation, research, planning, and editing
